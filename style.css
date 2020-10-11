@@ -1,3 +1,27 @@
+.img {
+    height: 3vh;
+    position: absolute;
+    left: 0; 
+}
+
+.navbar {
+    padding: 2rem;
+}
+
+.navbar-nav {
+    position: absolute;
+    right: 0;;
+}
+
+.nav-link {
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar-toggler {
+    position: absolute;
+    right: 10px;
+}
+
 body {
     background-image: url("https://images.unsplash.com/photo-1556741495-4a9f3c6935e8?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
     background-repeat: no-repeat;
