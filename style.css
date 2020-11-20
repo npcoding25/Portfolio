@@ -51,6 +51,14 @@ body {
     margin-top: 0rem;
 }
 
+.code-img {
+    height: 11.5rem;
+}
+
+.small-card-img {
+    height: 14rem;
+}
+
 .weather-img {
     padding: 0.75rem;
 }
