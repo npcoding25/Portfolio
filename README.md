@@ -17,7 +17,7 @@ When you open the webpage you'll see a short description of myself. From the nav
 
 ## Challenges/Improvements
 
-This assignment wasn't too challenging. The hardest thing for me is writing about myself and starting a resume. I've never made a resume for this field of work so I didn't really want to start. As I progress through this bootcamp I'll be adding more projects and highlighting my better ones.
+This assignment wasn't too challenging. The hardest thing for me is writing about myself and starting a resume. I've never made a resume for this field of work so I didn't really know where to start. As I progress through this bootcamp I'll be adding more projects and highlighting my better ones.
 
 ## Screenshots
 
