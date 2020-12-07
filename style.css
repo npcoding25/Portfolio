@@ -10,7 +10,7 @@
 
 .navbar-nav {
     position: absolute;
-    right: 0;;
+    right: 0;
 }
 
 .nav-link {
@@ -37,6 +37,10 @@ body {
 
 .contact-jumbo {
     width: 50%;
+}
+
+.card {
+    margin-bottom: 0.5rem;
 }
 
 .card-title {
