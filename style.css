@@ -9,12 +9,19 @@
 }
 
 .navbar-nav {
-    position: absolute;
-    right: 0;
+    position: relative;
+    float: right;
+    padding-right: 2rem;
+}
+
+.nav-item {
+    width: 100px;
 }
 
 .nav-link {
     font-family: 'Poppins', sans-serif;
+    padding-right: 1 rem;
+    padding-top: 1 rem;
 }
 
 .navbar-toggler {
