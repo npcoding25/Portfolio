@@ -10,12 +10,18 @@
 
 .navbar-nav {
     position: relative;
-    float: right;
+    right: 0;
+    /* float: right; */
     padding-right: 2rem;
+}
+
+#navbarNav {
+    position: relative;
 }
 
 .nav-item {
     width: 100px;
+    float: right;
 }
 
 .nav-link {
@@ -40,14 +46,26 @@ body {
     height: 200%;
     background-image: url("https://images.unsplash.com/photo-1508135583552-3a0882cbd2e6?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
     background-size: cover;
+    box-shadow: 2px 2px 8px 2px;
 }
 
 .contact-jumbo {
-    width: 50%;
+    width: 70%;
+}
+
+.card-group {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 5px;
+    justify-content: center;
 }
 
 .card {
     margin-bottom: 0.5rem;
+    border-radius: 1%;
+    border: solid black;
+    border-width: 2px;
+    box-shadow: 1px 1px 10px 1px;
 }
 
 .card-title {
@@ -60,6 +78,7 @@ body {
 
 .card-img-top {
     margin-top: 0rem;
+    box-shadow: 1px 1px 8px 1px;
 }
 
 .code-img {
@@ -88,4 +107,33 @@ body {
 
 h1 {
     text-align: center;
+}
+
+hr {
+    border: solid 0.5px black;
+}
+
+.about {
+    color: black;
+    font-size: large;
+}
+
+@media only screen and (max-width: 991px) {
+    .card-group {
+        grid-template-columns: 1fr 1fr;
+        grid-gap: 20px;
+    }
+} 
+
+@media only screen and (max-width: 767px) {
+    .card-group {
+        grid-template-columns: 1fr;
+        grid-gap: 20px;
+    }
+} 
+
+@media only screen and (min-width: 1200px) {
+    .card-group {
+        grid-gap: 50px;
+    }
 }
