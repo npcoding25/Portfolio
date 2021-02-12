@@ -27,4 +27,4 @@ This assignment wasn't too challenging. The hardest thing for me is writing abou
 
 ![image](https://user-images.githubusercontent.com/69565347/96185850-65091a00-0eef-11eb-996e-dbeedd3a2f20.png)
 
-Click [Here](https://npcoding25.github.io/Portfolio-Upgrade/) to see launched webpage.
+Click [Here](https://npcoding25.github.io/Portfolio/) to see launched webpage.

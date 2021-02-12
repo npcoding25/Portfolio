@@ -18,8 +18,8 @@
     display: flex;
     justify-content: flex-end;
     position: relative;
-    right: 0;
-    padding-right: 2rem;
+    right: 15px;
+    padding: 2rem;
 }
 
 .nav-item {
@@ -40,6 +40,14 @@
 .navbar-toggler {
     position: absolute;
     right: 10px;
+}
+
+/* .contact-link {
+    width: 120px;
+} */
+
+.home-link {
+    width: 80px;
 }
 
 body {
